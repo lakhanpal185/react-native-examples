@@ -1,0 +1,20 @@
+import React, { useEffect } from "react";
+import { Image,Text, View, StyleSheet,} from "react-native";
+
+const HomeComp = () => {
+   return(
+    <View style={styles.container}>
+       <Text> home screen</Text>
+    </View>
+   );
+}
+
+const styles = StyleSheet.create({
+    container:{
+        flex:1,
+        alignItems:'center',
+        justifyContent:'center'
+    }
+});
+
+export default HomeComp;
