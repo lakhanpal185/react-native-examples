@@ -1,4 +1,4 @@
-What is React?
+##What is React?
 React is a JavaScript library used for building user interfaces. It was developed by Facebook and released to the public in 2013. React is based on a component-based architecture where each component has its own state and can be reused throughout the application.
 What is JSX?
 JSX is an extension of JavaScript syntax that allows developers to write HTML-like code in their JavaScript files. JSX makes it easier to create and manipulate UI elements in React.
